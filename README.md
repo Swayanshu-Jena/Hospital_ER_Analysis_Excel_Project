@@ -51,6 +51,18 @@ The sourced dataset for this project:
 
 This Hospital ER Dashboard identifies patient wait times as the key area for improvement, providing clear insights to enhance operational efficiency and patient satisfaction.
 
+## Author - Swayanshu Jena
+
+This end-to-end dashboard project highlights my ability to solve business problems with data, demonstrating key data analyst skills in Excel, data modeling, and visualization. I welcome any questions, feedback, or opportunities to collaborate.
+
+### Stay Updated
+
+Make sure to follow me on social media:
+
+- **Instagram**: [Follow me](https://www.instagram.com/sway_anshu_jena/)
+- **LinkedIn**: [Connect with me professionally](https://www.linkedin.com/in/swayanshu-jena)
+
+Thank you for your support, and I look forward to connecting with you!
 
 
 
