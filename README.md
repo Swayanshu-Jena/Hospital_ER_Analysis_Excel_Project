@@ -1,8 +1,6 @@
 # Hospital Emergency Room Dashboard using Ms-Excel
-<br>
 
-<img src="Dashboard.png" alt="Image Description" width="1050">
-<br><br>
+![](Dashboard.png)
 
 ## Overview
 This project involves a comprehensive analysis of a Hospital Emergency Room's operational data using Excel for data processing and Power Pivot. The goal was to build an interactive dashboard to visualize key performance indicators (KPIs), monitor patient flow, and identify areas for improving efficiency and patient satisfaction. The dashboard provides stakeholders with actionable insights for better decision-making and resource management.
