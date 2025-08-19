@@ -1,4 +1,4 @@
-# Hospital Emergency Room Dashboard using Ms-Excel
+<img width="2252" height="1280" alt="Project Steps" src="https://github.com/user-attachments/assets/56b765ea-52d5-430e-b128-5044a94cf306" /># Hospital Emergency Room Dashboard using Ms-Excel
 
 ![](Dashboard.png)
 
@@ -20,8 +20,9 @@ The sourced dataset for this project:
 
 - **Dataset Link:** [Hospital ER Dataset](https://drive.google.com/file/d/1tSAlOjV-6XFjJpfE9C4u38uU4iD-tNVf/view?usp=drive_link)
 
-
-
+## Key Requirements
+1. Project Workflow
+   ![]()
 
 
 
