@@ -20,13 +20,6 @@ The sourced dataset for this project:
 
 - **Dataset Link:** [Hospital ER Dataset](https://drive.google.com/file/d/1tSAlOjV-6XFjJpfE9C4u38uU4iD-tNVf/view?usp=drive_link)
 
-## Data Model Structure
-- Books
-- Customers
-- Orders
-
-<img width="900" height="500" alt="Schema" src="https://github.com/user-attachments/assets/268e16ee-02aa-480a-9e7c-e75f7d8842ee" />
-
 ## Key Requirements
 1. Project Workflow
    
