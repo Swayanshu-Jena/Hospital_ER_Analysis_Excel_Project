@@ -55,7 +55,7 @@ Make sure to follow me on social media:
 - **Instagram**: [Follow me](https://www.instagram.com/sway_anshu_jena/)
 - **LinkedIn**: [Connect with me professionally](https://www.linkedin.com/in/swayanshu-jena)
 
-Thank you for your support, and I look forward to connecting with you!
+❤️ Thank you for your support, and I look forward to connecting with you!
 
 
 
